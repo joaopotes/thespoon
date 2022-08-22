@@ -5,6 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+<<<<<<< HEAD
 
 10.times do
   Restaurant.create(
@@ -13,3 +14,5 @@
     rating: rand(1..5)
   )
 end
+=======
+>>>>>>> 5fbb5f627f372626eb51c0c2662a0181ed561e10
