@@ -13,6 +13,7 @@ gem 'puma', '~> 5.0'
 gem 'sass-rails', '>= 6'
 
 gem 'faker'
+gem 'simple_form'
 
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
 gem 'webpacker', '~> 5.0'
